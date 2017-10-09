@@ -1,0 +1,15 @@
+{
+    "name": "himasrafeek.hard-coder",
+    "title": "Hard Coder Dark Theme",
+    "description": "Great Dark Green Theme For Hard Coders!",
+    "homepage": "https://github.com/HimasRafeek/Hard-Coder-Brackets-Dark-Theme",
+    "version": "1.0.0",
+    "author": "Himas Rafeek",
+    "license": "GNU General Public License v3.0",
+    "theme": {
+        "file": "Hard-Coder.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme,dark theme,green theme,brackets theme"]
+}
